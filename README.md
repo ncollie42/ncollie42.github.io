@@ -1,6 +1,6 @@
 # Hi, I'm Nico
 > Passionate about learning and making cool things. An aspiring software developer with a focus on backend with Golang. 
-## Project I have worked on
+## A few projects I have worked on
 * **(Golang) [Ping](https://github.com/ncollie42/ping):** Crecreated ping
 * **(Golang) [Taskmaster](https://github.com/ncollie42/taskmaster-1):** A process control program,  similar to a hypervisor, that creates and maintains processes. Used a concurrent design model. 
 * **(C) [FTP](https://github.com/ncollie42/ft_p):** a non RFC standard implementation of a **FTP server/client**.
